@@ -1,6 +1,6 @@
 {
   "name": "cp-verification",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "常用的校验类代码",
   "main": "index.js",
   "directories": {
@@ -15,7 +15,10 @@
     "url": "git+https://github.com/CharlsPrince/cp-verification.git"
   },
   "keywords": [
-    "校验"
+    "校验",
+    "cp-verification",
+    "cp",
+    "verification"
   ],
   "author": "CharlsPrince",
   "license": "MIT",
