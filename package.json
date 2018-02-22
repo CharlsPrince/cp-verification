@@ -1,0 +1,26 @@
+{
+  "name": "cp-verification",
+  "version": "0.0.1",
+  "description": "常用的校验类代码",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlsPrince/cp-verification.git"
+  },
+  "keywords": [
+    "校验"
+  ],
+  "author": "CharlsPrince",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CharlsPrince/cp-verification/issues"
+  },
+  "homepage": "https://github.com/CharlsPrince/cp-verification#readme"
+}
