@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
+	<title>Example</title>
+	<script type="text/javascript" src="../lib/cp-verification.js"></script>
+</head>
+
+<body>
+	<script>
+	var verification = new CPVerification();
+	console.log(verification.isEmail('961629701@qq.com'));
+	console.log(verification.isMobile('13631130332'));
+	console.log(verification.isID_Card('44098119930105323x'));
+	console.log(verification.isNumStr('123456789qwertyu'));
+	console.log(verification.isTel('0668-6314500'));
+	</script>
+</body>
+
+</html>
